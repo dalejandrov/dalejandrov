@@ -12,4 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dalejandrov&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dalejandrov&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Dev Meme:
+![](https://media.tenor.com/a-TsAtfszc8AAAAC/homer-any.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

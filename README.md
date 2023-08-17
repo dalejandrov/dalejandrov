@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel Valencia<br>🌱 I’m currently learning Microservices and Cloud 
+👋 Hi, I’m Daniel Valencia<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
